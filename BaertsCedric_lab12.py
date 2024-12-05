@@ -2,6 +2,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 from numpy.polynomial import Polynomial
 
+# https://github.com/Cbaerts/Lab12
+
 # File Path
 file = '/Users/cedricbaerts/Desktop/Physics3926/Week12/Lab12/co2_mm_mlo.csv'
 # Open File and skip explaining rows and seperate by commas
